@@ -8,4 +8,4 @@ Le site se constitue d'une page d'accueil, une page de formulaire et une page de
 
 # Langages utilisés
 
-Css Html
+CSS / HTML
